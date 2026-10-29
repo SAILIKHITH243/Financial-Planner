@@ -5,7 +5,7 @@ A personal finance analysis and monthly budgeting application built with Python 
 <p align="center">
   <a href="https://github.com/SAILIKHITH243/Financial-Planner">GitHub Repository</a>
   &nbsp; | &nbsp;
-  <strong>Live Demo: Not deployed yet</strong>
+  <a href="https://financial-planner-mmdx9umyocdxcwwsmgmhdc.streamlit.app/">Live Demo</a>
 </p>
 
 ## Overview
@@ -89,15 +89,9 @@ Open the local URL displayed in the terminal. Streamlit commonly uses `http://lo
 
 ## Live Application
 
-**Status:** The public web application has not yet been deployed.
+**Live Demo:** [Open Financial Planner](https://financial-planner-mmdx9umyocdxcwwsmgmhdc.streamlit.app/)
 
-Once the application code is in the repository, it can be deployed through [Streamlit Community Cloud](https://share.streamlit.io/). After deployment, replace this section with the actual public application URL:
-
-```text
-Live Demo: Add the verified Streamlit deployment URL here.
-```
-
-The GitHub repository link above is the source-code link; it is not the live website.
+The application is hosted on Streamlit Community Cloud. Open the live demo to explore the interface and try the available features. When using demo or personal financial data, verify extracted transactions and review calculations before relying on the results.
 
 ## Limitations
 
