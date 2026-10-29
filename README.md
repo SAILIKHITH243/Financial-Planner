@@ -1,5 +1,9 @@
 # Financial Planner
 
+**Author:** Sai Likhith  
+**GitHub Repository:** [SAILIKHITH243/Financial-Planner](https://github.com/SAILIKHITH243/Financial-Planner)  
+**Live Website:** Not deployed yet. A public application URL will be added after deployment.
+
 Financial Planner is a personal finance application built with Python and Streamlit. It is designed to help users review transaction records, understand spending patterns, and prepare a monthly budget based on recorded expenses and financial commitments.
 
 The application brings transaction review, spending analysis, category-level budgeting, and CSV export into one interface.
