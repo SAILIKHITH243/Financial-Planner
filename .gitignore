@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Private financial data
+*.pdf
+*.csv
+*.xlsx
+*.xls
+*.ofx
+*.qfx
+*.qif
+saved_budget_plans.json
+
+# Local backups
+*.bak
+app_before*.py
+app_backup*.py
+*_backup.py
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
