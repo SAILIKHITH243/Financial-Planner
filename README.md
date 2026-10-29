@@ -1,6 +1,5 @@
 # Financial Planner
 
-**Author:** Sai Likhith  
 **GitHub Repository:** [SAILIKHITH243/Financial-Planner](https://github.com/SAILIKHITH243/Financial-Planner)  
 **Live Website:** Not deployed yet. A public application URL will be added after deployment.
 
@@ -107,3 +106,7 @@ Potential improvements include persistent storage for monthly budgets, broader s
 ## License
 
 Add an appropriate license before distributing the project for reuse.
+
+## Author
+
+**Sai Likhith**
